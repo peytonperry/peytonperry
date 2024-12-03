@@ -2,8 +2,8 @@
 - 👀 I’m interested in java and HTML
 - 🌱 I’m starting to learn python
 - 💞️ I’m looking to collaborate on anything, im willing to learn.
-- 📫 How to reach me discord..
-Discord: Spooon#3551
+- 📫
+
 
 
 <!---
